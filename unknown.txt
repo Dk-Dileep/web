@@ -1,0 +1,3 @@
+welcome to the git session
+we are learning git
+we will build a own website
